@@ -1,0 +1,36 @@
+*****Testology.in*****SeleniumJavaCucumberCI_Course
+---------------------------------------------------------------------
+Day31: Agenda 
+
+Github - SCM tool
+
+https://guides.github.com/activities/hello-world/
+
+create account with github.com
+install git for windows 
+https://gitforwindows.org/
+
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+run this two comman in gitbash
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+
+
+basic command
+	git clone  <path of repository> 
+	git branch   = this will show all branches where you have worked till now
+
+create branch
+	git checkout -b Automation
+	
+switching to branch 
+	git checkout <branchname>	
+
+add code
+commit
+push it to git
+merge
+---------------------------------------------------------------------
