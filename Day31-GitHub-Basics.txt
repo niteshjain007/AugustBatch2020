@@ -34,3 +34,5 @@ commit
 push it to git
 merge
 ---------------------------------------------------------------------
+Home work :
+create your git hub account and push your code
